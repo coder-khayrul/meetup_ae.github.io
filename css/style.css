@@ -442,7 +442,7 @@ section.hero_section .single_hero_slider .hero_slide_image>img {
 
 section.category_section {
     background: var(--sub-color);
-    padding: 50px 0px;
+    padding: 70px 0px;
 }
 /***start of work process section style**/
 section.work_process_section .wp_inner{padding-top: 60px;}
@@ -555,7 +555,7 @@ section.work_process_section .wp_inner{padding-top: 60px;}
 }
 
 section.work_process_section {
-    padding: 80px 0;
+    padding: 70px 0;
     background: hsl(11, 88%, 98%);
 }
 .single_work .sw_icon span::before {
@@ -589,7 +589,6 @@ section.work_process_section {
 .section_title > h2 {
     font-size: 45px;
     position: relative;
-    line-height: 5rem;
     margin-bottom: 15px;
 }
 
@@ -602,7 +601,7 @@ section.work_process_section {
     position: absolute;
     left: 50%;
     transform: translate(-50%, 0px);
-    bottom: 0;
+    bottom: -5px;
 }
 
 /***end of work process section style**/
@@ -618,7 +617,7 @@ section.work_process_section {
 }
 
 section.action_section {
-    padding: 80px 0;
+    padding: 70px 0;
     background: var(--sub-color);
 }
 
@@ -689,7 +688,7 @@ footer .footer_wrapper .single_footer .social_links {
 }
 
 footer .footer_wrapper {
-    padding: 40px 0;
+    padding: 70px 0;
 }
 
 footer {background: hsl(11, 88%, 98%);}
